@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://jestbubbles.github.io/jestbubbles/",
-            "url": "https://jestbubbles.github.io/jestbubbles/",
+            "id": "https://jestbubbles.github.io/notroubles/",
+            "url": "https://jestbubbles.github.io/notroubles/",
             "title": "৹॰°ₒ৹๐🐟๐৹॰°ₒ৹",
             "summary": "jest keep swimming ",
             "content_html": "<p>jest keep swimming</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jestbubbles.github.io/media/posts/8/spoopp.PNG\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jestbubbles.github.io/media/posts/8/responsive/spoopp-xs.PNG 300w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-sm.PNG 480w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-md.PNG 768w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-lg.PNG 1024w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-xl.PNG 1360w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-2xl.PNG 1600w\"  alt=\"\" width=\"311\" height=\"323\"></figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ajUPA7zRhOM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/iByw6RxsdCY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/hjzMk1DlDrM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__video\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jestbubbles.github.io/media/posts/8/Body_Paint-49.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-xs.jpg 300w ,https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-sm.jpg 480w ,https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-md.jpg 768w ,https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-lg.jpg 1024w ,https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-xl.jpg 1360w ,https://jestbubbles.github.io/media/posts/8/responsive/Body_Paint-49-2xl.jpg 1600w\"  alt=\"\" width=\"5472\" height=\"3648\"></figure>",
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2021-11-24T00:01:15-08:00",
-            "date_modified": "2021-11-24T01:08:14-08:00"
+            "date_modified": "2021-11-24T01:22:46-08:00"
         },
         {
             "id": "https://jestbubbles.github.io/thanks-for-popping-in/",
