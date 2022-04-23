@@ -3,7 +3,7 @@
     <title>jestbubbles</title>
     <link href="https://jestbubbles.github.io/feed.xml" rel="self" />
     <link href="https://jestbubbles.github.io" />
-    <updated>2021-12-17T16:15:45-08:00</updated>
+    <updated>2022-04-22T18:13:40-07:00</updated>
     <author>
         <name>Jess Floam</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://jestbubbles.github.io/notroubles/"/>
         <id>https://jestbubbles.github.io/notroubles/</id>
 
-        <updated>2021-11-24T01:22:46-08:00</updated>
+        <updated>2022-04-22T18:13:40-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/8/jest-bubbles.PNG" alt="" />
@@ -27,7 +27,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://jestbubbles.github.io/media/posts/8/jest-bubbles.PNG" alt="" />
-                <p>jest keep swimming</p>
+                <p class="align-left"><em><strong><span style="color: #000000;">jest keep swimming</span></strong></em></p>
 <figure class="post__image"><img loading="lazy"  src="https://jestbubbles.github.io/media/posts/8/spoopp.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jestbubbles.github.io/media/posts/8/responsive/spoopp-xs.PNG 300w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-sm.PNG 480w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-md.PNG 768w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-lg.PNG 1024w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-xl.PNG 1360w ,https://jestbubbles.github.io/media/posts/8/responsive/spoopp-2xl.PNG 1600w"  alt="" width="311" height="323"></figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ajUPA7zRhOM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/iByw6RxsdCY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hjzMk1DlDrM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
