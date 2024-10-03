@@ -3,12 +3,35 @@
     <title>jestbubbles</title>
     <link href="https://jestbubbles.github.io/feed.xml" rel="self" />
     <link href="https://jestbubbles.github.io" />
-    <updated>2024-02-09T15:12:30-05:00</updated>
+    <updated>2024-10-03T14:35:53-07:00</updated>
     <author>
         <name>Jess Floam</name>
     </author>
     <id>https://jestbubbles.github.io</id>
 
+    <entry>
+        <title>Shows</title>
+        <author>
+            <name>Jess Floam</name>
+        </author>
+        <link href="https://jestbubbles.github.io/shows/"/>
+        <id>https://jestbubbles.github.io/shows/</id>
+        <media:content url="https://jestbubbles.github.io/media/posts/21/Screenshot-2024-08-06-105831.png" medium="image" />
+
+        <updated>2024-10-03T14:35:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jestbubbles.github.io/media/posts/21/Screenshot-2024-08-06-105831.png" alt="" />
+                    The Cat &amp; The Canary Halloween Show - OCT 25 6PM at THE RENDEZVOUS
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jestbubbles.github.io/media/posts/21/Screenshot-2024-08-06-105831.png" class="type:primaryImage" alt="" /></p>
+                <p><a href=" https://therendezvous.boldtypetickets.com/events/159155353/the-cat-the-canary-halloween-show-by-jess-floam" target="_blank" rel="noopener noreferrer">The Cat &amp; The Canary Halloween Show - OCT 25 6PM at THE RENDEZVOUS</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>𓃠</title>
         <author>
@@ -17,7 +40,7 @@
         <link href="https://jestbubbles.github.io/hanginthere/"/>
         <id>https://jestbubbles.github.io/hanginthere/</id>
 
-        <updated>2022-12-16T17:36:12-05:00</updated>
+        <updated>2022-12-16T14:36:12-08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -34,7 +57,7 @@
         <id>https://jestbubbles.github.io/notroubles/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/8/jest-bubbles.PNG" medium="image" />
 
-        <updated>2022-12-16T17:35:49-05:00</updated>
+        <updated>2022-12-16T14:35:49-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/8/jest-bubbles.PNG" alt="" />
@@ -62,7 +85,7 @@
         <id>https://jestbubbles.github.io/thanks-for-popping-in/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/19/20180804_081037.jpg" medium="image" />
 
-        <updated>2022-12-16T16:35:23-05:00</updated>
+        <updated>2022-12-16T13:35:23-08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -75,7 +98,7 @@
         <id>https://jestbubbles.github.io/d/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/18/tikka-lifeguard.jpg" medium="image" />
 
-        <updated>2021-12-17T19:14:51-05:00</updated>
+        <updated>2021-12-17T16:14:51-08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -88,7 +111,7 @@
         <id>https://jestbubbles.github.io/tikka-in-her-natural-habitat/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/17/20200509_143109.jpg" medium="image" />
 
-        <updated>2021-12-17T19:14:58-05:00</updated>
+        <updated>2021-12-17T16:14:58-08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -101,7 +124,7 @@
         <id>https://jestbubbles.github.io/resume/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/16/damsel1.PNG" medium="image" />
 
-        <updated>2024-02-09T15:12:21-05:00</updated>
+        <updated>2024-02-09T12:12:21-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/16/damsel1.PNG" alt="" />
@@ -260,7 +283,7 @@
         <id>https://jestbubbles.github.io/equipment/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/15/damsel1.PNG" medium="image" />
 
-        <updated>2024-02-09T15:12:30-05:00</updated>
+        <updated>2024-02-09T12:12:30-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/15/damsel1.PNG" alt="" />
@@ -291,7 +314,7 @@
         <id>https://jestbubbles.github.io/recommendations/</id>
         <media:content url="https://jestbubbles.github.io/media/posts/14/spoopp.PNG" medium="image" />
 
-        <updated>2023-11-01T20:24:48-04:00</updated>
+        <updated>2023-11-01T17:24:48-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/14/spoopp.PNG" alt="" />
@@ -345,7 +368,7 @@
         <link href="https://jestbubbles.github.io/vampire-the-masquerade-bloodlines/"/>
         <id>https://jestbubbles.github.io/vampire-the-masquerade-bloodlines/</id>
 
-        <updated>2021-04-02T00:23:33-04:00</updated>
+        <updated>2021-04-01T21:23:33-07:00</updated>
             <summary>
                 <![CDATA[
                     Your Damsel who causes distress
@@ -356,62 +379,6 @@
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://jestbubbles.github.io/media/posts/13/gallery/damsel6.PNG" data-size="593x730"><img loading="lazy" src="https://jestbubbles.github.io/media/posts/13/gallery/damsel6-thumbnail.PNG" alt="" width="593" height="730"></a>
 <figcaption>Your Damsel who causes distress</figcaption>
-</figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thank you, me mateys </title>
-        <author>
-            <name>Jess Floam</name>
-        </author>
-        <link href="https://jestbubbles.github.io/thank-you-me-mateys/"/>
-        <id>https://jestbubbles.github.io/thank-you-me-mateys/</id>
-        <media:content url="https://jestbubbles.github.io/media/posts/12/20200803_001405.jpg" medium="image" />
-
-        <updated>2022-12-16T17:31:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jestbubbles.github.io/media/posts/12/20200803_001405.jpg" alt="" />
-                    With a philosophy of no troubles, jest bubbles, my greatest mission is to offer a safe harbor to all: someone to talk with, listen to music, play games, explore, relax, inspire, and embrace each little moment that make up this present given to us. A&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jestbubbles.github.io/media/posts/12/20200803_001405.jpg" class="type:primaryImage" alt="" /></p>
-                <p><span style="color: #000000;"><strong>With a philosophy of no troubles, jest bubbles, my greatest mission is to offer a safe harbor to all:</strong> someone to talk with, listen to music, play games, explore, relax, inspire, and embrace each little moment that make up this present given to us. </span></p>
-<p><span style="color: #000000;"><strong>A Captain relies on a formidable crew in rough seas, and I could not have asked for better mateys. I appreciate each and every one of you beautiful souls aboard. Thank you ★</strong></span></p>
-<hr>
-<p><span style="color: #000000;"><strong>Governance in 18th century piracy gives an order of authority: </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong>Captain Jest and Tikka the Cat <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img  draggable="false" src="https://cdn.discordapp.com/emojis/592383955978813440.png?v=1" alt="jestbuBbles" aria-label="jestbuBbles" data-is-external-image="true"></figure></span> <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><figure class="emoji"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/679447301034344450.png?v=1" alt="jestbuTikka" aria-label="jestbuTikka" data-is-external-image="true"></figure></span> </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong>First Mate Mars <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/794748004816388136.png?v=1" alt=":cheeseJAM:" aria-label=":cheeseJAM:" data-is-external-image="true"></figure></span> </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong>Quartermaster Caseyjones <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/794821753817530369.png?v=1" alt=":salemSUS:" aria-label=":salemSUS:" data-is-external-image="true"></figure></span> </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong>Navigator Larry "Show me ya moves" Cheeseberry <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img  draggable="false" src="https://cdn.discordapp.com/emojis/822674975890604033.png?v=1" alt=":NotBadLarry:" aria-label=":NotBadLarry:" data-is-external-image="true"></figure></span> <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><figure class="emoji"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/794825546529898527.png?v=1" alt=":cheesepls:" aria-label=":cheesepls:" data-is-external-image="true"></figure></span> </strong></span></p>
-<p> </p>
-<hr>
-<figure class="emoji"><span style="color: #000000;"><strong>Officers: Sailing Master Elikabu <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://discord.com/assets/232c63163a0f5b41306a860843920938.svg" alt=":compass:" width="37" height="37" aria-label=":compass:" data-is-external-image="true"></figure></span>                   <span style="color: #000000;">  </span></strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong><span style="color: #000000;">Master Gunner Wombat </span><span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/669249218031910913.png?v=1" alt=":Wombat:" width="84" height="74" aria-label=":Wombat:" data-is-external-image="true"></figure></span> </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong>Boatswain Virtualdxs <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/692941071252062288.png?v=1" alt=":fiddle:" width="75" height="75" aria-label=":fiddle:" data-is-external-image="true"></figure></span>                                <span style="color: #000000;">  </span></strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong><span style="color: #000000;">Peglegged Pirate Russyk </span><span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/668261560237686802.png?v=1" alt=":cheers:" width="64" height="73" aria-label=":cheers:" data-is-external-image="true"></figure></span>                                                   </strong></span></p>
-<figure class="emoji"><span style="color: #000000;"><strong><span style="color: #000000;">Drunken Barrelman SS</span> <span class="emojiContainer-3X8SvE" tabindex="0" role="button"><img loading="lazy"  draggable="false" src="https://cdn.discordapp.com/emojis/783404855313039378.png?v=1" alt=":ispy:" width="41" height="41" aria-label=":ispy:" data-is-external-image="true"></figure></span> </strong></span></p>
-<hr>
-<p><span style="color: #000000;"><strong><span style="color: #000000;">buccaneers (subs), deck swabbies, cabbage merchant, bre</span>ad pirate roberts, cartographer, bard, chef, powder monkey, sailor (followers)</strong></span></p>
-<hr>
-<p><span style="color: #000000;">If you would like to join us afloat a wave of good vibration, <a href="https://discord.com/invite/c7FJuxb" target="_blank" rel="noopener noreferrer" style="color: #000000;">join the discord !</a> Want a role aboard the JestExpress? Message me, mars, or any officers and we will get you shipshape o7</span></p>
-<p><span style="color: #000000;">Incredible art and memes created by the crew</span></p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://jestbubbles.github.io/media/posts/12/gallery/48vu2v.jpg" data-size="761x343"><img loading="lazy" src="https://jestbubbles.github.io/media/posts/12/gallery/48vu2v-thumbnail.jpg" alt="" width="720" height="325"></a>
-<figcaption>fantastic meme brought to you by zekefreak</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://jestbubbles.github.io/media/posts/12/gallery/aquetzalli.png" data-size="1200x1200"><img loading="lazy" src="https://jestbubbles.github.io/media/posts/12/gallery/aquetzalli-thumbnail.png" alt="" width="720" height="720"></a>
-<figcaption>beautiful sketch of my axolotl familiar by the lovely Versarigirl ♥</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://jestbubbles.github.io/media/posts/12/gallery/tikka_for_jess.png" data-size="1920x1080"><img loading="lazy" src="https://jestbubbles.github.io/media/posts/12/gallery/tikka_for_jess-thumbnail.png" alt="" width="720" height="405"></a>
-<figcaption>magnificent tikka sketch by doofitry</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://jestbubbles.github.io/media/posts/12/gallery/tikka.jpg" data-size="1042x1424"><img loading="lazy" src="https://jestbubbles.github.io/media/posts/12/gallery/tikka-thumbnail.jpg" alt="" width="720" height="984"></a>
-<figcaption>a terrible meme made by the one and only ecchiwithatwist</figcaption>
 </figure>
 </div></div>
             ]]>
