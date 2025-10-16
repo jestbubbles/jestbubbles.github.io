@@ -3,12 +3,31 @@
     <title>jestbubbles</title>
     <link href="https://jestbubbles.github.io/feed.xml" rel="self" />
     <link href="https://jestbubbles.github.io" />
-    <updated>2025-10-09T16:40:33-07:00</updated>
+    <updated>2025-10-16T16:50:44-07:00</updated>
     <author>
         <name>Jess Floam</name>
     </author>
     <id>https://jestbubbles.github.io</id>
 
+    <entry>
+        <title>Perish Song</title>
+        <author>
+            <name>Jess Floam</name>
+        </author>
+        <link href="https://jestbubbles.github.io/perish/"/>
+        <id>https://jestbubbles.github.io/perish/</id>
+        <media:content url="https://jestbubbles.github.io/media/posts/24/perishart_3.4.1.jpg" medium="image" />
+
+        <updated>2025-10-16T16:50:44-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jestbubbles.github.io/media/posts/24/perishart_3.4.1.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/BOvotzV-iOo?si=z-ZBQFUARLH0o2n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/track/2jB0YMVUkZXqUog0Sibbtk?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jess go with the Floam</title>
         <author>
@@ -361,37 +380,6 @@
 </figure>
 </div></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Equipment</title>
-        <author>
-            <name>Jess Floam</name>
-        </author>
-        <link href="https://jestbubbles.github.io/equipment/"/>
-        <id>https://jestbubbles.github.io/equipment/</id>
-        <media:content url="https://jestbubbles.github.io/media/posts/15/damsel1.PNG" medium="image" />
-
-        <updated>2024-02-09T12:12:30-08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jestbubbles.github.io/media/posts/15/damsel1.PNG" alt="" />
-                    EQUIPMENT Neumann TLM 102 Condenser Microphone SSL2+ Audio Interface in a Sound Treated Booth with Aston Microphones Halo Portable Microphone Reflection Filter Audacity, Izotope RX8, Renoise Digital Audio Workstations
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jestbubbles.github.io/media/posts/15/damsel1.PNG" class="type:primaryImage" alt="" /></p>
-                <div class="panel-body">
-<div class="about-text">
-<div><span style="color: #000000;"><strong>EQUIPMENT</strong></span></div>
-<div><span style="color: #000000;">Neumann TLM 102 Condenser Microphone<br>SSL2+ Audio Interface<br>in a Sound Treated Booth with<br>Aston Microphones Halo Portable Microphone Reflection Filter<br>Audacity, Izotope RX8, Renoise Digital Audio Workstations</span></div>
-<div> </div>
-<div> </div>
-</div>
-</div>
-<p> </p>
             ]]>
         </content>
     </entry>
