@@ -3,12 +3,35 @@
     <title>jestbubbles</title>
     <link href="https://jestbubbles.github.io/feed.xml" rel="self" />
     <link href="https://jestbubbles.github.io" />
-    <updated>2026-04-23T08:50:41-07:00</updated>
+    <updated>2026-05-13T12:24:56-07:00</updated>
     <author>
         <name>Jess Floam</name>
     </author>
     <id>https://jestbubbles.github.io</id>
 
+    <entry>
+        <title>START YOUR ENGINES!!!!!</title>
+        <author>
+            <name>Jess Floam</name>
+        </author>
+        <link href="https://jestbubbles.github.io/start-your-engines/"/>
+        <id>https://jestbubbles.github.io/start-your-engines/</id>
+
+        <updated>2026-05-13T12:24:56-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Check out my new indie pop song, Mach 3 Motormouths &amp; Me!!!!!!!!!!!!!!!!!!!!!!!!! https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1 https://youtu.be/jjgzk2j7UnQ &lt;iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6pT0Et6bhaoLWHtxLS7jSM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Check out my new indie pop song, Mach 3 Motormouths &amp; Me!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+<p><a href="https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1">https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1</a></p>
+<p><a>https://youtu.be/jjgzk2j7UnQ</a></p>
+<p>&lt;iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6pT0Et6bhaoLWHtxLS7jSM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TERMINAL VELOCITY</title>
         <author>
@@ -233,18 +256,5 @@
                 <p><span style="color: #000000;"><span style="color: #236fa1;"><span style="text-decoration: underline;"><a href="https://open.spotify.com/artist/0w3yJ4YdfkvD7Xialtrbog?si=4VCxE770Rdilqbm9cj1pkw" title="Spotify" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Spotify</a></span>            <span style="text-decoration: underline;"><a href="https://www.twitch.tv/jestbubbles" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Twitch</a></span>            <span style="text-decoration: underline;"><a href="https://www.youtube.com/channel/UC65Jq2FG-8wKUvkp_D3DSEw?view_as=subscriber" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Youtube</a></span>             <span style="text-decoration: underline;"><a href="https://www.instagram.com/jestbubbles/" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Instagram</a></span>            <span style="text-decoration: underline;"><a href="https://jestbubbles.itch.io/" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Itch.io</a></span>            <span style="text-decoration: underline;"><a href="https://discord.com/invite/c7FJuxb" target="_blank" rel="noopener" style="color: #236fa1; text-decoration: underline;">Discord</a></span>       </span>      </span><br><span style="color: #000000;"><span style="text-decoration: underline;"><span style="color: #236fa1; text-decoration: underline;"><a href="https://www.patreon.com/jestbubbles" style="color: #236fa1; text-decoration: underline;">Tap to become a Patron</a></span></span> — Support my content with exclusive peeks behind the scenes</span></p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Have a great day!</title>
-        <author>
-            <name>Jess Floam</name>
-        </author>
-        <link href="https://jestbubbles.github.io/d/"/>
-        <id>https://jestbubbles.github.io/d/</id>
-        <media:content url="https://jestbubbles.github.io/media/posts/18/tikka-lifeguard.jpg" medium="image" />
-
-        <updated>2021-03-25T20:04:15-07:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
