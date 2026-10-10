@@ -3,7 +3,7 @@
     <title>jestbubbles</title>
     <link href="https://jestbubbles.github.io/feed.xml" rel="self" />
     <link href="https://jestbubbles.github.io" />
-    <updated>2026-10-09T20:21:44-07:00</updated>
+    <updated>2026-10-09T20:27:15-07:00</updated>
     <author>
         <name>Jess Floam</name>
     </author>
@@ -31,8 +31,8 @@
                 <div class="post__iframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/IJHGjnrDZIA?si=vnDv9NSe27JZ1nvZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/track/6bURNJGGRWQ3IC87vC45WE?utm_source=generator&amp;si=3943f1874bda4b5f" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div><div class="post__iframe"><iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/lady-of-the-lake/6818893992"></iframe></div><div class="post__iframe"><iframe loading="lazy" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1047383039/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://jessfloam.bandcamp.com/track/lady-of-the-lake">Lady of the Lake by Jess Floam</a></iframe></div>
 <p><span style="font-weight: 400; color: #000000;">          Pet Shop Boys meet Lady Gaga as Seattle artist Jess Floam lures you in with her haunting melodies in her new Halloween single "Lady of the Lake". With a raw edge like Sinead O'Connor or Ethel Cain and catchy pop chorus that is reminiscent of old school 90s Madonna it is sure to ensnare the hearts of its next victims. The song sounds like the prom song from Starship Troopers. The music video / visualizer is inspired by The Ring (see above).</span></p>
 <p><span style="font-weight: 400; color: #000000;">          With a smooth groove, hot punchy drums and some nice pop sensibilities, Jess’ siren-like voice grabs the listener with a lot of personality. The vocal and lyrical composition brings a stronger sense of the mythological figure of the "Lady of the Lake" as a metaphor for transformation, mystery, acceptance and the unknown, exploring the duality between the reception of the aquatic element and the immersion in deep emotions. There is a narrative of liberation: letting go of earthly moorings to indulge in a mysterious and sovereign presence, with a deep and intense beauty. The switch between the more restrained sections and the pop chorus gives the song a fun theatrical pull. The Halloween mood is clear without taking over every part of the arrangement.</span></p>
-<p><span style="font-weight: 400; color: #000000;">          A thick fog of moody dark atmosphere lingers. The water is chill and calm and dangerously inviting. The aesthetic sound brings a more environmental and ethereal line, with more intense layers of an echo effect, giving the feeling of a more open and humid space. It features a production that brings more fluid synthesizer textures of an ethereal touch and a more saturated and distorted guitar line. The synths keep the track eerie without making it gloomy. The rhythm is fluid and rich with a hazy vibe while Jess Floam’s vocals pierce through the fog with a strong intense tone that captures the listener’s attention. Lady of the Lake balances between the strange and catchy. Enjoy the playful darkness and mystery that captivates from beginning to end.<br><br><br></span></p>
-<p><a><br><br><span style="color: #000000;">Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!!<br><br></span></a></p>
+<p><span style="font-weight: 400; color: #000000;">          A thick fog of moody dark atmosphere lingers. The water is chill and calm and dangerously inviting. The aesthetic sound brings a more environmental and ethereal line, with more intense layers of an echo effect, giving the feeling of a more open and humid space. It features a production that brings more fluid synthesizer textures of an ethereal touch and a more saturated and distorted guitar line. The synths keep the track eerie without making it gloomy. The rhythm is fluid and rich with a hazy vibe while Jess Floam’s vocals pierce through the fog with a strong intense tone that captures the listener’s attention. Lady of the Lake balances between the strange and catchy. Enjoy the playful darkness and mystery that captivates from beginning to end.<br><br>Featured in this spooktacular playlist:<br><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/playlist/1WhL5QlFEDx2CJlPn7iuKg?utm_source=generator&amp;si=94726386afe14fb3" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div></span></p>
+<p><a><span style="color: #000000;">Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!!<br></span></a></p>
 <div id="mc_embed_shell">
 <div id="mc_embed_signup"><form class="validate" action="https://jestbu.us9.list-manage.com/subscribe/post?u=dbece786341bd00efd4ade38e&amp;id=951060a190&amp;f_id=006b55e1f0" method="post" target="_blank">
 <div id="mc_embed_signup_scroll">
@@ -805,10 +805,9 @@
         const fieldName = dropdown?.id.replace('country-select-', '');
         initializeSmsPhoneDropdown(fieldName);
       });
-    });
-    </script>
+    });</script>
 </div>
-<p><br><br></p>
+<p> </p>
 <ul>
 <li><span style="font-weight: 400;">Halloween + Dark Pop + Synthpop + Gothic + Alternative + Darkwave + Indie Pop + Electronic</span></li>
 <li><span style="font-weight: 400;">Halloween Dark Pop</span></li>
@@ -855,7 +854,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://jestbubbles.github.io/media/posts/27/Screenshot-2026-04-09-145029.png" alt="" />
-                    Check out my new indie pop song, Mach 3 Motormouths &amp; Me!!!!!!!!!!!!!!!!!!!!!!!!! https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1 https://youtu.be/jjgzk2j7UnQ Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!! ]*>/gi, ' ') .replace(blockWrapperRegex, '') : program.requiredTemplate.replace(divRegex, ''); legalTextElement.textContent = ''; const parts = template.split(/(.*?)/g);&hellip;
+                    Check out my new indie pop song, Mach 3 Motormouths &amp; Me!!!!!!!!!!!!!!!!!!!!!!!!! Featured in this indie bedroom pop playlist!!!!!!!!!!!! Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!! ]*>/gi, ' ') .replace(blockWrapperRegex, '') : program.requiredTemplate.replace(divRegex, ''); legalTextElement.textContent =&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -863,8 +862,8 @@
                     <p><img src="https://jestbubbles.github.io/media/posts/27/Screenshot-2026-04-09-145029.png" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <p><span style="color: #000000;"><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/track/6pT0Et6bhaoLWHtxLS7jSM?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/jjgzk2j7UnQ?si=DqieGtr87OuL03Dz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div><br><br>Check out my new indie pop song, Mach 3 Motormouths &amp; Me!!!!!!!!!!!!!!!!!!!!!!!!!</span></p>
-<p><a href="https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1">https://open.spotify.com/track/6pT0Et6bhaoLWHtxLS7jSM?si=c2fd6cd305874eb1</a></p>
-<p><a href="https://youtu.be/jjgzk2j7UnQ">https://youtu.be/jjgzk2j7UnQ</a><a><br><br><span style="color: #000000;">Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!!<br><br></span></a></p>
+<p><span style="color: #000000;">Featured in this indie bedroom pop playlist!!!!!!!!!!!! </span><br><div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/playlist/5TiUK5fEKNnlh4w1QumQA2?utm_source=generator&amp;si=76308dd7fa49468c" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<p><a><br><span style="color: #000000;">Sign up to get the latest news and Jess Floam music delivered straight to your email!!!!!!!!!!<br><br></span></a></p>
 <div id="mc_embed_shell">
 <div id="mc_embed_signup"><form class="validate" action="https://jestbu.us9.list-manage.com/subscribe/post?u=dbece786341bd00efd4ade38e&amp;id=951060a190&amp;f_id=006b55e1f0" method="post" target="_blank">
 <div id="mc_embed_signup_scroll">
