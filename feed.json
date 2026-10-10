@@ -68,7 +68,8 @@
             "id": "https://jestbubbles.github.io/perish/",
             "url": "https://jestbubbles.github.io/perish/",
             "title": "Perish Song",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BOvotzV-iOo?si=z-ZBQFUARLH0o2n8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe width=\"100%\" height=\"352\" style=\"border-radius: 12px;\" data-testid=\"embed-iframe\" src=\"https://open.spotify.com/embed/track/2jB0YMVUkZXqUog0Sibbtk?utm_source=generator\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div>",
+            "summary": "Perish Song by Jess Floam",
+            "content_html": "<div class=\"post__iframe\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7fFEbZceZ30?si=6KoLrE1E9R9WE6OQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"352\" style=\"border-radius: 12px;\" data-testid=\"embed-iframe\" src=\"https://open.spotify.com/embed/track/2jB0YMVUkZXqUog0Sibbtk?utm_source=generator\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div><div class=\"post__iframe\"><iframe style=\"width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;\" allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" frameborder=\"0\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/song/perish-song/1843885019\"></iframe></div><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=303407399/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://jessfloam.bandcamp.com/track/perish-song\">Perish Song by Jess Floam</a></iframe></div>",
             "image": "https://jestbubbles.github.io/media/posts/24/perishart_3.4.1.jpg",
             "author": {
                 "name": "Jess Floam"
@@ -76,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2025-10-16T16:50:44-07:00",
-            "date_modified": "2025-10-16T16:50:44-07:00"
+            "date_modified": "2026-10-09T20:06:40-07:00"
         },
         {
             "id": "https://jestbubbles.github.io/bio/",
